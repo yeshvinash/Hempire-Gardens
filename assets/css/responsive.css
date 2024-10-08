@@ -1,0 +1,2004 @@
+@media (min-width: 1366px) {
+  .container {
+    max-width: 1200px;
+  }
+
+  .custom-header .container {
+    max-width: 1246px;
+  }
+}
+
+@media (min-width: 1440px) {
+
+  .container,
+  .custom-header .container {
+    max-width: 1320px;
+  }
+}
+
+@media (min-width: 1600px) {
+  .container {
+    max-width: 1440px;
+  }
+
+  .custom-header .container {
+    max-width: 1540px;
+  }
+}
+
+@media (min-width: 1800px) {
+  .container {
+    max-width: 1550px;
+  }
+
+  .custom-header .container {
+    max-width: 1800px;
+  }
+}
+
+@media (max-width: 1799px) {
+  html {
+    font-size: 9.5px;
+  }
+
+  /* PREMIUM QUALITY START */
+  .premium-tagline {
+    max-width: 60%;
+  }
+
+  /* PREMIUM QUALITY END */
+
+  /* SEARCH START AVN */
+  .cbd-products-container .card-title-wrap {
+    font-size: 14px;
+  }
+
+  /* SEARCH END AVN */
+}
+
+@media (max-width: 1650px) {
+  html {
+    font-size: 9px;
+  }
+}
+
+@media (max-width: 1599px) {
+  :root {
+    /* FONT SIZE */
+    --font-14: 12px;
+    --font-16: 14px;
+    --font-20: 18px;
+    --font-24: 22px;
+    --font-28: 26px;
+    --font-30: 28px;
+
+    /* SPACE SIZE */
+    --size-12: 10px;
+    --size-14: 12px;
+    --size-16: 14px;
+    --size-20: 18px;
+    --size-24: 22px;
+    --size-26: 24px;
+    --size-28: 26px;
+    --size-30: 28px;
+  }
+
+  html {
+    font-size: 8px;
+  }
+
+  /* BUTTON START */
+  .custom-btn {
+    min-width: 180px;
+    min-height: 54px;
+  }
+
+  /* BUTTON END */
+
+  /* HEADER START */
+  .mega-menu-wrap {
+    max-width: 1200px;
+  }
+
+  .logo {
+    width: 220px;
+  }
+
+  .header-link-wrap li:not(:last-child) {
+    margin-right: 4rem;
+  }
+
+  /* HEADER END */
+
+  /* UNDERSTANDING OF CHEMICALS START */
+  .chemical-img-contain {
+    max-width: 550px;
+  }
+
+  /* UNDERSTANDING OF CHEMICALS END */
+
+  /* JOIN MAIL START */
+  .join-mail-form {
+    height: 60px;
+  }
+
+  /* JOIN MAIL END */
+
+  /* AVN START */
+  .categories-list-items {
+    padding-left: 70px;
+  }
+
+  .categories-list-icon-wrap {
+    width: 40px;
+    height: 40px;
+  }
+
+  .categories-accordion .accordion-button::after {
+    width: 12px;
+    height: 12px;
+  }
+
+  .pagination-btn {
+    min-height: 46px;
+  }
+
+  /* AVN END */
+
+  /* ABOUT US START */
+  .about-story-left-wrap {
+    width: 340px;
+  }
+
+  .about-img-contain {
+    width: 360px;
+  }
+
+  .story-icon-wrap,
+  .service-icon {
+    width: 80px;
+    height: 80px;
+  }
+
+  /* ABOUT US END */
+
+  /* GREEN ICON START */
+  .unlock-wrap {
+    width: 80px;
+    height: 80px;
+  }
+
+  .unlock-wrap i {
+    width: 30px;
+    height: 30px;
+  }
+
+  /* GREEN ICON END */
+}
+
+@media (max-width: 1439px) {
+
+  /* our shop products section */
+  .categories-wrap {
+    max-width: 330px;
+  }
+
+  .products-icon {
+    width: 35px;
+    height: 35px;
+  }
+
+
+  .shop-products-wrap {
+    max-width: calc(100% - 330px);
+  }
+
+  .products-icon svg {
+    width: 15px;
+    height: 15px;
+  }
+
+  .products-cards-wrap {
+    -ms-grid-columns: 1fr var(--size-20) 1fr var(--size-20) 1fr;
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  /* our shop products section */
+
+  /* SEARCH START AVN */
+  .product-search-offcanvas.product-offcanvas.offcanvas {
+    width: 60%;
+  }
+
+  /* SEARCH END AVN */
+
+  /* OUR SHOP SELECT START  */
+  .shop-products-select .form-select {
+    padding: calc(var(--size-20) + 2px) 5rem calc(var(--size-20) + 2px) var(--size-24);
+    min-width: 180px;
+    max-width: 180px;
+  }
+
+  /* OUR SHOP SELECT END */
+}
+
+@media (max-width: 1429px) {
+  html {
+    font-size: 7px;
+  }
+
+  /* HOME HERO START */
+  .read-about {
+    margin-top: -23.5rem;
+  }
+
+  /* HOME HERO END */
+
+  /* REFER FRIEND START */
+  .refer-friend-img-contain {
+    width: 420px;
+  }
+
+  /* REFER FRIEND END */
+
+  /* PREMIUM QUALITY START */
+  .premium-product-card h5 {
+    max-width: unset;
+  }
+
+  /* PREMIUM QUALITY END */
+
+  /* ABOUT US START */
+  .about-img-contain {
+    width: 340px;
+  }
+
+  /* ABOUT US END */
+
+  /* CONTACT START */
+  .contact-form {
+    max-width: 60%;
+  }
+
+  /* CONTACT END */
+
+  /* BLOG START */
+  .article-img-contain {
+    width: 160px;
+  }
+
+  /* BLOG END */
+}
+
+@media (max-width: 1365px) {
+  :root {
+    /* FONT SIZE */
+    --font-24: 20px;
+    --font-28: 24px;
+    --font-30: 26px;
+
+    /* SPACE SIZE */
+    --size-8: 6px;
+    --size-12: 8px;
+    --size-14: 10px;
+    --size-16: 12px;
+    --size-20: 16px;
+    --size-24: 20px;
+    --size-26: 22px;
+    --size-28: 24px;
+    --size-30: 26px;
+  }
+
+  html {
+    font-size: 6px;
+  }
+
+  /* HEADER START */
+  .mega-menu-wrap {
+    max-width: 1100px;
+  }
+
+  .mega-menu-content {
+    gap: 6rem;
+  }
+
+  .header-link-wrap li:not(:last-child) {
+    margin-right: 3rem;
+  }
+
+  /* HEADER END */
+
+  /* HOME HERO START */
+  .read-about {
+    margin-top: -25.5rem;
+  }
+
+  /* HOME HERO END */
+
+  /* UNDERSTANDING OF CHEMICALS START */
+  .chemical-img-contain {
+    max-width: 500px;
+  }
+
+  /* UNDERSTANDING OF CHEMICALS END */
+
+  /* LOGO START */
+  .logo {
+    width: 200px;
+  }
+
+  /* LOGO END */
+
+  /* AVN START */
+  .product-cards-img {
+    max-width: 140px;
+    max-height: 120px;
+    margin-top: 5.5rem;
+  }
+
+  .products-cards-overlay {
+    height: 120px;
+  }
+
+  .products-icon {
+    right: -7px;
+  }
+
+  .card-title-wrap {
+    font-size: 14px;
+  }
+
+  /* AVN END */
+
+  /* ABOUT US START */
+  .about-story-left-wrap,
+  .about-img-contain {
+    width: 300px;
+  }
+
+  .story-icon-wrap svg {
+    width: 34px;
+    height: 34px;
+  }
+
+  .service-icon img {
+    max-width: 40px;
+    object-fit: contain;
+  }
+
+  /* ABOUT US END */
+
+  /* INPUT START */
+  .big-input {
+    height: 60px;
+  }
+
+  .small-input {
+    height: 54px;
+  }
+
+  textarea.big-input {
+    height: 140px;
+  }
+
+  .auth-icon i {
+    width: 22px;
+    height: 22px;
+  }
+
+  .right-icon-input {
+    padding-right: 44px;
+  }
+
+  .left-icon-input {
+    padding-left: 44px;
+  }
+
+  /* INPUT END */
+
+  /* PRIVACY START AVN */
+  .table-space-16 {
+    padding: 14px 16px !important;
+  }
+
+  .privacy-table tr th {
+    padding: 15px 24px;
+  }
+
+  /* PRIVACY END AVN */
+
+  /* SEARCH START AVN */
+  .cbd-products-container .sold-out-label {
+    padding: 4px 12px;
+    font-size: 9px;
+  }
+
+  /* SEARCH END AVN */
+
+  /* CART START AVN */
+  .shopping-cart-wrap .cart-btn-group {
+    width: 110px;
+    height: 45px;
+  }
+
+  /* CART END AVN */
+
+  /* BLOG START */
+  .article-img-contain {
+    width: 140px;
+  }
+
+  .blog-profile-img-wrap {
+    width: 38px;
+    height: 38px;
+  }
+
+  /* BLOG END */
+}
+
+@media (max-width: 1200px) {
+
+  /* hero section start */
+  .herobg h1 {
+    margin-top: 12rem;
+  }
+
+  /* hero section end */
+
+  /* read about section start */
+  .read-about .img-left {
+    width: 150px;
+  }
+
+  .read-about .img-right {
+    width: 111px;
+  }
+
+  /* read about section end */
+}
+
+@media (max-width: 1199px) {
+  :root {
+    --font-28: 22px;
+  }
+
+  .show-menu {
+    overflow: hidden;
+  }
+
+  /* HEADER START */
+  .navbar-toggler {
+    display: block;
+  }
+
+  .header-link-wrap {
+    display: none;
+  }
+
+  .header-mobile-wrap {
+    display: block;
+  }
+
+  .header-link-container {
+    background-color: var(--white);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 70% !important;
+    -webkit-transition: all 0.5s ease 0s;
+    -o-transition: all 0.5s ease 0s;
+    transition: all 0.5s ease 0s;
+    -webkit-transform: translateX(-110%);
+    -ms-transform: translateX(-110%);
+    transform: translateX(-110%);
+    overflow: auto;
+    flex-direction: column;
+    margin: 0 auto;
+    box-shadow: 0 3px 5px 0.3px rgba(0, 0, 0, 0.1);
+    z-index: 2;
+  }
+
+  .show-menu .header-link-container {
+    -webkit-transform: translateX(0%);
+    -ms-transform: translateX(0%);
+    transform: translateX(0%);
+  }
+
+  /* HEADER END */
+
+  /* HOME HERO START */
+  .read-about {
+    margin-top: -21.5rem;
+  }
+
+  /* HOME HERO END */
+
+  /* UNDERSTANDING OF CHEMICALS START */
+  .chemical-img-contain {
+    max-width: 400px;
+  }
+
+  /* UNDERSTANDING OF CHEMICALS END */
+
+  /* PREMIUM QUALITY START */
+  .understanding-tagline,
+  .premium-tagline {
+    max-width: 70%;
+  }
+
+  /* PREMIUM QUALITY END */
+
+  /* JOIN MAIL START */
+  .join-mail-form {
+    max-width: 65%;
+  }
+
+  /* JOIN MAIL END */
+
+  /* FOOTER START */
+  .footer-inner-container {
+    flex-direction: column;
+  }
+
+  .footer-left-wrap {
+    width: 100%;
+    padding-right: unset;
+    border-right: none;
+  }
+
+  .footer-right-wrap {
+    width: 100%;
+    padding-left: unset;
+    padding-top: 1rem;
+  }
+
+  .footer-right-inner {
+    justify-content: space-between;
+  }
+
+  /* FOOTER END */
+
+  /* AVN START */
+  .products-cards-wrap {
+    -ms-grid-columns: 1fr var(--size-20) 1fr;
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .our-shop-title p {
+    max-width: 70%;
+  }
+
+  .products-items {
+    padding: 12px;
+  }
+
+  /* AVN END */
+
+  /* ABOUT US START */
+  .about-story-left-wrap,
+  .about-img-contain {
+    width: 280px;
+  }
+
+  .service-icon {
+    width: 60px;
+    height: 60px;
+  }
+
+  .service-icon img {
+    max-width: 30px;
+  }
+
+  /* ABOUT US END */
+
+  /* CONTACT START */
+  .contact-form {
+    max-width: 70%;
+  }
+
+  /* CONTACT END */
+
+  /* PRIVACY START AVN */
+  .cookies-store-table-wrap {
+    padding-right: 8px;
+  }
+
+  .reporting-table-wrap {
+    padding-left: 8px;
+  }
+
+  /* PRIVACY END AVN */
+
+  /* SEARCH START AVN */
+  .product-search-offcanvas.product-offcanvas.offcanvas {
+    width: 70%;
+  }
+
+  /* SEARCH END AVN */
+
+  /* OUR SHOP SELECT START  */
+  .shop-products-select .form-select {
+    padding: calc(var(--size-20) + 2px) 5rem calc(var(--size-20) + 2px) var(--size-24);
+    min-width: 160px;
+    max-width: 160px;
+  }
+
+  /* OUR SHOP SELECT END */
+
+  /* CART SIDEBAR START AWN */
+  .cart-item {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 14px;
+  }
+
+  .cart-sidebar .img-wrapper {
+    width: 20rem;
+    height: 20rem;
+  }
+
+  .cart-sidebar .description {
+    max-width: 80%;
+    line-height: 1.6;
+  }
+
+  /* CART SIDEBAR END AWN */
+
+  /* MY ACCOUNT START AWN */
+  .order-history-table h6 {
+    font-size: 14px;
+  }
+
+  /* MY ACCOUNT END AWN */
+
+  /* BLOG START */
+  .recent-article-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  /* BLOG END */
+}
+
+@media (max-width: 1023px) {
+
+  /* Offcanvas start */
+  .product-offcanvas.offcanvas {
+    width: 60%;
+  }
+
+  /* Offcanvas end */
+
+  /* CONTACT START */
+  .contact-form {
+    max-width: 90%;
+  }
+
+  /* CONTACT END */
+
+  /* INPUT START */
+  .big-input {
+    height: 55px;
+  }
+
+  /* INPUT END */
+}
+
+@media (max-width: 991px) {
+  :root {
+    /* FONT SIZE */
+    --font-16: 12px;
+    --font-20: 14px;
+    --font-24: 16px;
+    --font-28: 22px;
+    --font-30: 24px;
+
+    /* SPACE SIZE */
+    --size-16: 10px;
+    --size-20: 14px;
+    --size-24: 18px;
+    --size-26: 20px;
+    --size-28: 22px;
+    --size-30: 24px;
+  }
+
+  html {
+    font-size: 5px;
+  }
+
+  /* BUTTON START */
+  .custom-btn {
+    min-width: 150px;
+    min-height: 44px;
+    padding: 10px 20px;
+  }
+
+  /* BUTTON END */
+
+  /* HOME HERO START */
+  .read-about {
+    margin-top: -18.5rem;
+  }
+
+  /* HOME HERO END */
+
+  /* PREMIUM QUALITY START */
+  .understanding-tagline,
+  .premium-tagline {
+    max-width: unset;
+  }
+
+  /* PREMIUM QUALITY END */
+
+  /* UNDERSTANDING OF CHEMICALS START */
+  .chemical-img-contain {
+    max-width: 300px;
+  }
+
+  /* UNDERSTANDING OF CHEMICALS END */
+
+  /* REFER FRIEND START */
+  .refer-friend-img-contain {
+    width: 320px;
+  }
+
+  /* REFER FRIEND END */
+
+  /* JOIN MAIL START */
+  .join-mail-form {
+    height: 55px;
+  }
+
+  .join-mail-form {
+    max-width: 70%;
+  }
+
+  /* JOIN MAIL END */
+
+  /* FOOTER START */
+  .footer-right-inner>div:not(:last-child) {
+    padding-right: 8rem;
+  }
+
+  /* FOOTER END */
+
+  /* HOME PAGE AWN START */
+  .herobg h1 {
+    margin-top: 8rem;
+  }
+
+  .herobg h5 {
+    line-height: 1.5 !important;
+  }
+
+  .read-about .img-right {
+    width: 90px;
+  }
+
+  .story-left {
+    margin-bottom: 3rem;
+  }
+
+  /* HOME PAGE AWN END */
+
+  /* AVN START */
+  .shop-products-wrap {
+    max-width: 100%;
+    margin-left: 0;
+  }
+
+  .pagination-wrap {
+    left: 0;
+  }
+
+  .pagination-btn {
+    min-height: 50px;
+    min-width: 55px;
+  }
+
+  .categoryOffCanvas.categories-wrap {
+    display: block !important;
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 1;
+    -webkit-box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    height: 100%;
+    border-radius: 0px;
+    max-width: 45%;
+    z-index: 10;
+    -webkit-transition: 0.3s all ease;
+    -o-transition: 0.3s all ease;
+    transition: 0.3s all ease;
+  }
+
+  .products-results-wrap .custom-btn {
+    padding: 10px 12px;
+  }
+
+  .shop-products-select .form-select {
+    padding: 8px 35px 8px 16px;
+    max-height: 60px;
+    min-height: 50px;
+    min-width: unset;
+    max-width: unset;
+  }
+
+  .products-results-wrap {
+    padding: 8px var(--size-24);
+  }
+
+  .products-items-card-body .h5 {
+    font-size: 22px;
+  }
+
+  .products-icon {
+    right: 0;
+  }
+
+  /* AVN END */
+
+  /* VVK START */
+  .product-detail-slider .slider-img-container {
+    display: flex;
+  }
+
+  .product-detail-swiper-container {
+    margin-bottom: 35px;
+    position: static;
+  }
+
+  .product-offcanvas.offcanvas {
+    width: 70%;
+  }
+
+  /* VVK END */
+
+  /* ABOUT US START */
+  .about-story-left-wrap {
+    margin: 0 auto;
+    margin-bottom: 4rem;
+  }
+
+  .story-count-wrap {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .about-img-contain {
+    width: 200px;
+  }
+
+  .about-list-wrap li span svg,
+  .our-story ul li span svg {
+    width: 20px;
+    height: 20px;
+  }
+
+  .service-card {
+    padding: 10px 4.4rem var(--size-28) 4.4rem;
+  }
+
+  .service-icon {
+    width: 50px;
+    height: 50px;
+  }
+
+  .service-icon img {
+    max-width: 25px;
+  }
+
+  .safety-wrap {
+    grid-gap: 10rem;
+  }
+
+  /* ABOUT US END */
+
+  /* LEGISLATION START AVN */
+  .list-icon svg {
+    width: 20px;
+    height: 24px;
+  }
+
+  .circle-icon-wrap {
+    width: 55px;
+    height: 55px;
+  }
+
+  /* LEGISLATION END AVN */
+
+  /* PRIVACY START AVN */
+  .table-title-size-md,
+  .table-title-size-sm {
+    max-width: 100%;
+    font-size: 18px;
+  }
+
+  /* PRIVACY END AVN */
+
+  /* PRODUCT COLLECTION START AVN */
+  .product-collection-categories {
+    max-height: unset;
+  }
+
+  /* PRODUCT COLLECTION END AVN */
+
+  /* SEARCH START AVN */
+  .cbd-products-container .card-title-wrap {
+    font-size: 12px;
+  }
+
+  .product-search-offcanvas.product-offcanvas.offcanvas {
+    width: 75%;
+  }
+
+  .cbd-products-container .products-items-card-body .h5 {
+    font-size: 18px;
+  }
+
+  .cbd-products-container .product-cards-img {
+    max-width: 120px;
+    max-height: 100px;
+  }
+
+  /* SEARCH END AVN */
+
+  /* ADDRESS MODAL START */
+  .modal-dialog {
+    max-width: 700px;
+  }
+
+  /* ADDRESS MODAL END */
+
+  /* CART SIDEBAR START AWN */
+  .cart-btn-group {
+    height: 40px;
+  }
+
+  .taxes-flag {
+    padding: 16px 41px 16px 20px;
+  }
+
+  .taxes-flag::before {
+    width: 34px;
+    height: 34px;
+    right: -17px;
+  }
+
+  /* CART SIDEBAR END AWN */
+
+  /* SEARCH PRODUCT START VVK */
+  .search-page-product-card {
+    margin-bottom: var(--size-20);
+  }
+
+  /* SEARCH PRODUCT END VVK */
+
+  /* CART START AVN */
+  .shopping-cart-wrap .cart-sidebar .content {
+    padding-left: 18px;
+  }
+
+  .shopping-cart-footer .taxes-flag::before {
+    width: 30px;
+    height: 30px;
+    right: -15px;
+  }
+
+  .shopping-cart-footer .taxes-flag {
+    padding: 14px 30px 14px 14px;
+  }
+
+  .shopping-cart-footer .subtotal-wrap {
+    max-width: 300px;
+  }
+
+  /* CART END AVN */
+
+  /* SEARCH PRODUCT START */
+  .search-page .description {
+    max-width: unset;
+  }
+
+  /* SEARCH PRODUCT END */
+}
+
+@media (max-width: 767px) {
+  :root {
+    /* FONT SIZE */
+    --font-12: 10px;
+    --font-24: 14px;
+    --font-28: 18px;
+    --font-30: 22px;
+
+    /* SPACE SIZE */
+    --size-20: 12px;
+    --size-24: 16px;
+    --size-26: 18px;
+    --size-28: 20px;
+    --size-30: 22px;
+  }
+
+  html {
+    font-size: 4px;
+  }
+
+  /* HEADER START */
+  .header-link-container {
+    width: 100% !important;
+  }
+
+  .header-link-btn {
+    padding: var(--size-12);
+  }
+
+  /* HEADER END */
+
+  /* HOME HERO START */
+  .hero-img {
+    margin-top: 3rem;
+  }
+
+  /* HOME HERO END */
+
+  /* PREMIUM BANNER START */
+  .left-leaf {
+    width: 100%;
+    opacity: .5;
+  }
+
+  .right-leaf {
+    width: 60%;
+    opacity: .5;
+  }
+
+  /* PREMIUM BANNER END */
+
+  /* UNDERSTANDING OF CHEMICALS START */
+  .chemical-img-contain {
+    max-width: unset;
+    margin-bottom: 3rem;
+  }
+
+  .chemical-des-wrap h3 {
+    margin-bottom: var(--size-8);
+  }
+
+  /* UNDERSTANDING OF CHEMICALS END */
+
+  /* PREMIUM QUALITY START */
+  .premium-product-wrap {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  /* PREMIUM QUALITY END */
+
+  /* REFER FRIEND START */
+  .refer-friend-inner {
+    flex-direction: column;
+  }
+
+  .refer-friend-content {
+    padding: 5rem;
+  }
+
+  .refer-friend-img-wrap {
+    padding-right: 0;
+    align-self: center;
+  }
+
+  .refer-friend-img {
+    margin-top: unset;
+  }
+
+  .refer-friend {
+    padding-top: unset;
+  }
+
+  /* REFER FRIEND END */
+
+  /* JOIN MAIL START */
+  .join-mail-form {
+    max-width: 100%;
+  }
+
+  /* JOIN MAIL END */
+
+  /* FOOTER START */
+  .footer-right-inner {
+    flex-direction: column;
+  }
+
+  .footer-right-inner>div:not(:last-child) {
+    padding-right: unset;
+    margin-bottom: 5.5rem;
+  }
+
+  .disclaimer-des {
+    max-width: 100%;
+    margin-right: 2rem;
+  }
+
+  .social-link-wrap {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  /* FOOTER END */
+
+  /* HOME PAGE AWN START */
+  .herobg {
+    text-align: center;
+    background-position: top left;
+  }
+
+  .hero-img {
+    text-align: center;
+  }
+
+  .hero-img img {
+    width: 50%;
+  }
+
+  .read-about .img-left {
+    width: 100px;
+  }
+
+  .read-about .img-right {
+    width: 80px;
+    right: 40px;
+  }
+
+  .read-about h5 {
+    font-size: 15px;
+  }
+
+  .our-story h6 {
+    font-size: 14px;
+  }
+
+  .scroll-slider .swiper-slide span {
+
+    width: 25px;
+    height: 25px;
+  }
+
+  .shop-heading h5 {
+    font-size: 16px;
+  }
+
+  .shop-products {
+    grid-template-columns: 70%;
+  }
+
+  .shop-products h4 {
+    font-size: 19px;
+  }
+
+  .shop-products h6 {
+    font-size: 15px;
+  }
+
+  /* HOME PAGE AWN END */
+
+  /* AVN START */
+  .our-shop-title p {
+    max-width: 90%;
+    font-size: 16px;
+    line-height: 1.7 !important;
+  }
+
+  .shop-products-inner>div:not(:last-child) {
+    margin-right: 0;
+    margin-bottom: 10px;
+  }
+
+  .products-results-wrap {
+    padding: 10px var(--size-24);
+  }
+
+  .shop-products-select {
+    width: 100%;
+  }
+
+  .products-results-wrap .custom-btn {
+    padding: 8px 10px;
+  }
+
+  .products-results-wrap .custom-btn svg path {
+    width: 15px;
+    height: 15px;
+  }
+
+  .categoryOffCanvas.categories-wrap {
+    max-width: 60%;
+  }
+
+  .categories-list-items {
+    padding-left: 65px;
+  }
+
+  .products-cards-wrap {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  /* AVN END */
+
+  /* VVK START */
+
+  .offcanvas-product-detail-thumb-slider .slider-thumb-img-container {
+    padding: 7px 7px;
+  }
+
+  /* VVK END */
+
+  /* ABOUT US START */
+  .safety-wrap {
+    grid-gap: 1rem;
+  }
+
+  .about-img-contain {
+    margin: 0 auto;
+    margin-bottom: 4rem;
+  }
+
+  .services-card-wrap {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .service-card {
+    padding: 20px 4.4rem var(--size-28) 4.4rem;
+  }
+
+  .service-icon {
+    width: 60px;
+    height: 60px;
+  }
+
+  .story-count-wrap {
+    grid-gap: 8rem;
+  }
+
+  .about.premium-banner h5 {
+    max-width: unset;
+    width: 100%;
+  }
+
+  .story-icon-wrap {
+    width: 70px;
+    height: 70px;
+  }
+
+  /* ABOUT US END */
+
+  /* CONTACT START */
+  .contact-form {
+    max-width: 100%;
+  }
+
+  .city-detail-wrap,
+  .contact-detail-wrap,
+  .other-info-wrap {
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: var(--size-30);
+  }
+
+  /* CONTACT END */
+
+  /* INPUT START */
+  .big-input {
+    height: 50px;
+  }
+
+  .auth-icon i {
+    width: 20px;
+    height: 20px;
+  }
+
+  /* INPUT END */
+
+  /* GREEN ICON START */
+  .unlock-wrap {
+    width: 60px;
+    height: 60px;
+  }
+
+  .unlock-wrap i {
+    width: 20px;
+    height: 20px;
+  }
+
+  /* GREEN ICON END */
+
+  /* LEGISLATION START AVN */
+  .legal-notice-label-wrap {
+    padding: 12px var(--size-30);
+  }
+
+  .legislation-wrap-title h3 {
+    font-size: 16px;
+  }
+
+  /* LEGISLATION END AVN */
+
+  /* PRIVACY START AVN */
+  .socials-list-wrap {
+    padding-left: 40px;
+  }
+
+  /* PRIVACY END AVN */
+
+  /* SEARCH START AVN */
+  .product-search-offcanvas.product-offcanvas.offcanvas {
+    width: 100%;
+  }
+
+  /* SEARCH END AVN */
+
+  /* ADDRESS MODAL START */
+  .address-input-group {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .modal-dialog {
+    max-width: 500px;
+  }
+
+  /* ADDRESS MODAL END */
+
+  /* CART SIDEBAR START AWN */
+  .cart-sidebar {
+    padding: 20px 30px;
+  }
+
+  .cart-item h6 {
+    font-size: 13px;
+  }
+
+  .cart-sidebar .description {
+    max-width: 90%;
+  }
+
+  .cart-sidebar .img-wrapper {
+    width: 30rem;
+    height: 30rem;
+  }
+
+  .cart-btn-group {
+    width: 100px;
+    height: 30px;
+    margin-top: 5px;
+  }
+
+  [data-icon="deleteButtonIcon"]>svg {
+    width: 20px;
+    height: 20px;
+  }
+
+  .taxes-flag {
+    padding: 15px 30px 15px 5px;
+  }
+
+  .taxes-flag::before {
+    width: 32px;
+    height: 32px;
+  }
+
+  /* CART SIDEBAR END AWN */
+
+  /* MY ACCOUNT START AWN */
+  .order-history-table th {
+    padding: 1.9rem 2.4rem;
+  }
+
+  .order-history-table h6 {
+    font-size: 12px;
+  }
+
+  .order-history-table td {
+    padding: 2.1rem 3rem;
+  }
+
+  /* MY ACCOUNT END AWN */
+
+  /* CART START AVN */
+  .shopping-cart-wrap>div:first-child {
+    width: 100%;
+  }
+
+  .shopping-cart-wrap>div:nth-child(2),
+  .shopping-cart-wrap>div:nth-child(3),
+  .shopping-cart-wrap>div:last-child {
+    width: 50%;
+  }
+
+  .shopping-cart-wrap .cart-sidebar {
+    margin-bottom: 10px;
+  }
+
+  .shopping-cart-wrap .h5 {
+    font-size: 16px;
+  }
+
+  .shopping-cart-wrap .cart-sidebar .img-wrapper {
+    border-radius: 16px;
+  }
+
+  .shopping-cart-wrap .cart-btn-group {
+    border-radius: 8px;
+  }
+
+  .shopping-cart-footer .subtotal-wrap {
+    max-width: 351px;
+    margin-top: 10px;
+  }
+
+  .shopping-cart-inner {
+    padding-right: 0px;
+  }
+
+  /* CART END AVN */
+
+  /* BLOG START */
+  .blog-post-wrap,
+  .recent-article-container {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  /* BLOG END */
+}
+
+@media (max-width: 575px) {
+
+  /* HEADER START */
+  .bag-count {
+    width: 14px;
+    height: 14px;
+  }
+
+  /* HEADER END */
+
+  /* HOME HERO START */
+  .herobg {
+    padding-bottom: 4.4rem;
+  }
+
+  /* HOME HERO END */
+
+  /* read about section start */
+  .read-about {
+    padding: 7.6rem 5.5rem 7.6rem 5.5rem;
+  }
+
+  /* read about section end */
+
+  /* shop product section start */
+  .shop-products .card1 .img-wrapper img {
+    width: inherit;
+    height: inherit;
+    object-fit: contain;
+  }
+
+  /* shop product section end */
+
+  /* AVN START */
+  .pagination-btn {
+    min-height: 45px;
+    min-width: 50px;
+  }
+
+  .products-items-card-body .h5 {
+    font-size: 20px;
+  }
+
+  .accordion-icon {
+    width: 15px;
+    height: 15px;
+  }
+
+  .accordion-icon::before {
+    height: 14px;
+    margin-left: -1px;
+    top: 0px;
+    width: 2px;
+  }
+
+  .accordion-icon::after {
+    height: 2px;
+    left: 1px;
+    margin-top: -2px;
+    width: 14px;
+  }
+
+  .card-title-wrap {
+    max-width: 100%;
+  }
+
+  .products-icon {
+    width: 30px;
+    height: 30px;
+  }
+
+  .product-cards-img {
+    max-width: 100px;
+    max-height: 100px;
+  }
+
+  /* AVN END */
+
+  /* VVK START */
+  .product-offcanvas.offcanvas {
+    width: 100%;
+  }
+
+  .offcanvas-product-detail-slider.swiper {
+    max-width: 100%;
+  }
+
+  /* VVK END */
+
+  /* ABOUT US START */
+  .service-card {
+    padding: 16px 4.4rem var(--size-28) 4.4rem;
+  }
+
+  /* ABOUT US END */
+
+  /* LEGISLATION START AVN */
+  .circle-icon-wrap {
+    width: 50px;
+    height: 50px;
+  }
+
+  .legal-notice-label-wrap {
+    padding: 10px 14px;
+  }
+
+  /* LEGISLATION END AVN */
+
+  /* PRIVACY START AVN */
+  .decision-making-ribbon.ribbon {
+    max-width: 360px;
+  }
+
+  .table-title-size-md,
+  .table-title-size-sm {
+    font-size: 16px;
+  }
+
+  /* PRIVACY END AVN */
+
+  /* PRODUCT COLLECTION START AVN */
+  .categories-links-wrap {
+    max-height: 650px;
+  }
+
+  /* PRODUCT COLLECTION END AVN */
+
+  /* SEARCH START AVN */
+  .cbd-products-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  /* SEARCH END AVN */
+
+  /* MY ACCOUNT START AWN */
+  .table-wrapper {
+    overflow-x: auto;
+  }
+
+  .order-history-table {
+    min-width: 490px;
+  }
+
+  /* MY ACCOUNT END AWN */
+
+  /* CART START AVN */
+  .shopping-cart-wrap .cart-btn-group {
+    width: 80px;
+    height: 40px;
+  }
+
+  .shopping-cart-wrap .cart-sidebar .content {
+    padding-left: 14px;
+  }
+
+  .shopping-cart-wrap .cart-sidebar .description {
+    -webkit-line-clamp: 2;
+    line-height: 1.2;
+    font-size: 12px;
+  }
+
+  .shopping-cart-wrap .cart-sidebar h6 {
+    font-size: 12px;
+  }
+
+  /* CART END AVN */
+}
+
+@media (max-width: 480px) {
+
+  /* HEADER START */
+  .custom-header .logo {
+    width: 160px;
+  }
+
+  .hamburger .line {
+    width: 20px;
+  }
+
+  .header-link-btn svg {
+    width: 14px;
+    height: 14px;
+  }
+
+  /* HEADER END */
+
+  /* HOME HERO START */
+  .herobg {
+    padding-bottom: 9.4rem;
+  }
+
+  /* HOME HERO END */
+
+  /* PREMIUM BANNER START */
+  .right-leaf {
+    display: none;
+  }
+
+  .left-leaf {
+    opacity: .2;
+    object-fit: cover;
+    object-position: left;
+  }
+
+  /* PREMIUM BANNER END */
+
+  /* PREMIUM QUALITY START */
+  .premium-product-wrap {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  /* PREMIUM QUALITY END */
+
+  /* REFER FRIEND START */
+  .refer-friend-img-contain {
+    width: 240px;
+  }
+
+  /* REFER FRIEND END */
+
+  /* HOME PAGE AWN START */
+  .herobg h1 {
+    font-size: 7rem;
+  }
+
+  .herobg h5 {
+    font-size: 15px;
+  }
+
+  .read-about {
+    padding: 7.6rem 5.5rem 31.6rem 5.5rem;
+  }
+
+  .scroll-slider .swiper-slide span {
+    width: 20px;
+    height: 20px;
+  }
+
+  .shop-products {
+    grid-template-columns: 100%;
+  }
+
+  .shop-products .card1 .img-wrapper img {
+    width: inherit;
+    height: inherit;
+    object-fit: contain;
+  }
+
+  /* HOME PAGE AWN END */
+
+  /* AVN START */
+  .products-cards-wrap {
+    -ms-grid-columns: 1fr;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .categoryOffCanvas.categories-wrap {
+    max-width: 80%;
+  }
+
+  .products-results-wrap span {
+    font-size: 16px;
+  }
+
+  .our-shop-title p {
+    max-width: 100%;
+    font-size: 15px;
+  }
+
+  .card-title-wrap {
+    font-size: 14px;
+  }
+
+  .products-items-card-body .h5 {
+    font-size: 17px;
+  }
+
+  .sold-out-label {
+    padding: 4px 12px;
+    font-size: 9px;
+  }
+
+  .products-cards-overlay {
+    height: 100px;
+  }
+
+  .pagination-wrap .product-card-bg {
+    border-radius: 16px;
+  }
+
+  .product-cards-img {
+    margin-bottom: 15px;
+  }
+
+  /* AVN END */
+
+  /* VVK START */
+  .quantity-counter-calculated-price-wrap {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .quantity-counter-wrap {
+    margin-bottom: var(--size-16);
+  }
+
+  /* VVK END */
+
+  /* ABOUT US START */
+  .safety-wrap {
+    flex-wrap: wrap;
+    grid-gap: 4rem;
+  }
+
+  .story-count-wrap {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .service-card {
+    padding: 10px 4.4rem var(--size-28) 4.4rem;
+  }
+
+  .service-icon {
+    width: 50px;
+    height: 50px;
+  }
+
+  /* ABOUT US END */
+
+  /* SEARCH START AVN */
+  .product-search-offcanvas.product-offcanvas .offcanvas-body {
+    padding: 0 4rem 4rem 4rem;
+  }
+
+  .search-input {
+    padding-left: 40px;
+  }
+
+  .cbd-products-container .products-items-card-body .h5 {
+    font-size: 16px;
+  }
+
+  .cbd-products-container .product-cards-img {
+    max-width: 100px;
+    max-height: 80px;
+  }
+
+  /* SEARCH END AVN */
+
+  /* CART SIDEBAR START AWN */
+  .cart-sidebar {
+    padding: 19px 15px;
+  }
+
+  .cart-sidebar .description {
+    max-width: 100%;
+  }
+
+  .cart-btn-group {
+    height: 28px;
+  }
+
+  .cart-item {
+    flex-direction: column;
+  }
+
+  .cart-item .img-wrapper {
+    width: 80%;
+    margin: auto;
+  }
+
+  .cart-btn-group {
+    height: 7rem;
+  }
+
+  .cart-sidebar .content {
+    padding-top: 8px;
+  }
+
+  .taxes-flag::before {
+    width: 43px;
+    height: 43px;
+    right: -21px;
+  }
+
+  /* CART SIDEBAR END AWN */
+
+  /* MY ACCOUNT START AWN */
+  .order-history-table td {
+    padding: 2.1rem 3rem;
+  }
+
+  /* MY ACCOUNT END AWN */
+
+  /* CART CSS START */
+  .shopping-cart-wrap .cart-sidebar .img-wrapper {
+    border-radius: 12px;
+  }
+
+  .shopping-cart-footer .taxes-flag {
+    padding: 10px 25px 10px 10px;
+  }
+
+  .shopping-cart-footer .taxes-flag::before {
+    width: 24px;
+    height: 24px;
+    right: -12px;
+  }
+
+  .shopping-cart-footer .subtotal-wrap {
+    max-width: 342px;
+  }
+
+  .shopping-cart-wrap .cart-btn-group {
+    width: 70px;
+    height: 35px;
+  }
+
+  /* CART CSS END */
+
+  /* SEARCH PRODUCT START */
+  .search-page .cart-item {
+    flex-direction: row;
+  }
+
+  .search-page .cart-item .img-wrapper {
+    width: 15rem;
+  }
+
+  /* SEARCH PRODUCT END */
+}
+
+@media (max-width: 414px) {
+
+  /* our shop products section */
+  .categoryOffCanvas.categories-wrap {
+    max-width: 100%;
+  }
+
+  .card-title-wrap {
+    font-size: 12px;
+  }
+
+  .product-cards-img {
+    max-width: 80px;
+    max-height: 80px;
+  }
+
+  .products-items-card-body .h5 {
+    font-size: 15px;
+  }
+
+  .pagination-wrap .product-card-bg {
+    border-radius: 12px;
+  }
+
+  .products-items {
+    min-height: 210px;
+  }
+
+  .product-cards-img {
+    margin-top: 20px;
+  }
+
+  /* our shop products section */
+
+  /* PRIVACY START AVN */
+  .decision-making-ribbon.ribbon {
+    max-width: 290px;
+  }
+
+  .socials-list-wrap {
+    padding-left: 0px;
+  }
+
+  .table-space-16 {
+    padding: 12px 14px !important;
+  }
+
+  .privacy-table tr th {
+    padding: 12px 20px;
+  }
+
+  /* PRIVACY END AVN */
+
+  /* PRODUCT COLLECTION START AVN */
+  .product-collection-wrap .products-items {
+    min-height: 200px;
+  }
+
+  .product-collection-wrap .products-items-card-body {
+    min-height: 60px;
+  }
+
+  /* PRODUCT COLLECTION END AVN */
+
+  /* SEARCH START AVN */
+  .cbd-products-container .products-items-card-body .h5 {
+    font-size: 15px;
+  }
+
+  /* SEARCH END AVN */
+
+  /* CART START AVN */
+  .shopping-cart-footer .taxes-flag {
+    line-height: 1.2 !important;
+    max-width: 260px;
+  }
+
+  .shopping-cart-footer .taxes-flag::before {
+    width: 38px;
+    height: 38px;
+    right: -20px;
+  }
+
+  /* CART END AVN */
+}
+
+@media (max-width: 375px) {
+
+  /* Privacy Table Style */
+  .privacy-table tr:first-child th:last-child span {
+    min-width: 140px;
+    display: inline-block;
+  }
+
+  /* Privacy Table Style */
+}
+
+@media (max-width: 350px) {
+  .custom-header .logo {
+    width: 120px;
+  }
+
+  /* PRIVACY START AVN */
+  .decision-making-ribbon.ribbon {
+    max-width: 250px;
+    height: 70px;
+  }
+
+  .decision-making-ribbon.ribbon:after {
+    border-top: 35px solid var(--green);
+    border-bottom: 35px solid var(--green);
+  }
+
+  /* PRIVACY END AVN */
+}
+
+@media (max-width: 320px) {
+  .product-detail-slider {
+    max-width: 240px;
+  }
+
+  .product-detail-thumb-slider {
+    max-width: 240px;
+  }
+}
